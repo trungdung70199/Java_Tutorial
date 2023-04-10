@@ -13,9 +13,13 @@ public class Variables {
         System.out.println(fullname);
 
         //int variables
-        int xS = 5;
+        int x = 5;
         int y = 10;
         int z = 15;
-        System.out.println(z + y + z);
+        System.out.println(x + y + z);
     }
 }
+// The general rule for naming variables:
+// Names can contain letters, digits, underscores, dollar signs
+// Names must begin with a letter
+// Name should start with a lowercase letter 

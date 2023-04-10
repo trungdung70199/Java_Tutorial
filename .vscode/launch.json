@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "For",
+            "projectName": "Java_Tutorial_75ac21c3"
+        },
+        {
+            "type": "java",
+            "name": "Short_Hand",
+            "request": "launch",
+            "mainClass": "Short_Hand",
+            "projectName": "Java_Tutorial_75ac21c3"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
