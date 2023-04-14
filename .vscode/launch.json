@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "Java_Tutorial_75ac21c3"
+        },
+        {
+            "type": "java",
             "name": "For",
             "request": "launch",
             "mainClass": "For",
