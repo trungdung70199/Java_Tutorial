@@ -9,5 +9,8 @@ public class Object {
         Object myObj = new Object();
         System.out.println(myObj.x);
     }
+    public int nextlnt() {
+        return 0;
+    }
 }
 
